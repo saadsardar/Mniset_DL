@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'Pen'
+}
+
+item {
+    id: 2
+    name: 'Book'
+}
+
+item {
+    id: 3
+    name: 'Phone'
+}
+
+item {
+    id: 4
+    name: 'Laptop'
+}
